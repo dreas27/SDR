@@ -16,3 +16,6 @@ URL: https://www.kaggle.com/datasets/muhammetvarl/laptop-price
 
 Berikut merupakan detail dari *dataset* yang digunakan untuk pembuatan model:
 - Data set berupa CSV
+
+Berikut ini adalah Aib Andreas Teknik Fisika 2021
+https://cerdas.com/andreask27
